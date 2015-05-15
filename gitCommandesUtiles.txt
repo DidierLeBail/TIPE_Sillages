@@ -1,0 +1,10 @@
+git commandes utiles :
+
+git status
+git add
+git push
+git pull
+git log
+git revert
+git stash
+git commit
