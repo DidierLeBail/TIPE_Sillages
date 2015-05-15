@@ -5,6 +5,9 @@ git add
 git push
 git pull
 git log
-git revert
+git revert (annuler une sauvegarde)
 git stash
 git commit
+git checkout (naviguer dans les sauvegardes)
+git branch
+git merge
